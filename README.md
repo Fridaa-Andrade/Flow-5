@@ -25,8 +25,8 @@ A continuación podras puedes encontrar los enlaces a cursos de la plataforma de
 ## Servicios
 Para que este ejercicio funcione, necesita los siguientes servicios:
 
-[ColmenaMQ]()Es un corredor publico y no se necesita cuenta
-[OpenWeatherMap](https://openweathermap.org/) Servicio meteorológico gratuito. Se requiere crear una cuenta.
+[ColmenaMQ]:Es un corredor publico y no se necesita cuenta
+[OpenWeatherMap](https://openweathermap.org/) :Servicio meteorológico gratuito. Se requiere crear una cuenta.
 ## Instrucciones
 
 ### Requisitos previos
